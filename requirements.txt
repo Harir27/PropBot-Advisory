@@ -1,4 +1,5 @@
-pip freeze > requirements.txt
-git add .
-git commit -m "Initial Flask backend setup"
-git push origin main
+flask
+gunicorn
+google-generativeai
+numpy
+textblob
